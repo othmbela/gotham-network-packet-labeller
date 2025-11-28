@@ -15,7 +15,7 @@ endif
 .PHONY: init extract_features clean_features label_data run_pipeline
 
 
-$(BIN)/activate: requirement.txt
+$(BIN)/activate: requirements.txt
 	python3 -m venv $(VENV)
 	$(BIN)/pip install --upgrade pip
 	$(BIN)/pip install -e .
