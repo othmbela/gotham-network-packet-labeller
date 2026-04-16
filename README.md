@@ -1,6 +1,6 @@
-# GothamDataset2025 Processing Pipeline
+# Processing Pipeline: A Device-Level Distributed IoT Network Traffic Dataset with Non-IID Characteristics for Intrusion Detection
 
-This repository contains a pipeline for processing the Gotham network traffic dataset, including **feature extraction**, **feature cleaning**, and **data labelling**. The pipeline is designed for extensibility and reproducibility.
+This repository contains a pipeline for processing the network traffic dataset, including **feature extraction**, **feature cleaning**, and **data labelling**. The pipeline is designed for extensibility and reproducibility.
 
 ---
 
@@ -32,7 +32,7 @@ This repository contains a pipeline for processing the Gotham network traffic da
             $ make init
         ```
     First, the command line will create your vcirtual environment and install the dependencies needed to run the app. Then, it will create the data folders.
-    3. Move the GothamDataset2025 to the ./data/raw folder.
+    3. Move the dataset to the ./data/raw folder.
 
 
 ## **Pipeline Tasks**
