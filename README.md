@@ -130,21 +130,35 @@ This project is released under the [Apache 2.0 license](LICENSE)
 
 ## Authors
 
-**Othmane Belarbi**
-
+* **Othmane Belarbi** (Lead / Maintainer)
+* Theodoros Spyridopoulos, Eirini Anthi, Omer Rana, Pietro Carnelli, Aftab Khan
 
 ## Citation
 
-If you find this code useful in your research, please cite this article as:
+If you use this dataset or codebase in your research, please cite the published journal article (or the arXiv preprint):
 ```bibtex
-@misc{belarbi2025gothamdataset2025reproducible,
-      title={Gotham Dataset 2025: A Reproducible Large-Scale IoT Network Dataset for Intrusion Detection and Security Research}, 
-      author={Othmane Belarbi and Theodoros Spyridopoulos and Eirini Anthi and Omer Rana and Pietro Carnelli and Aftab Khan},
-      year={2025},
-      eprint={2502.03134},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2502.03134}, 
+@article{data11080207,
+    author = {Belarbi, Othmane and Spyridopoulos, Theodoros and Anthi, Eirini and Rana, Omer and Carnelli, Pietro and Khan, Aftab},
+    title = {A Device-Level IoT Network Traffic Dataset with Distributed Capture and Non-IID Characteristics},
+    journal = {Data},
+    volume = {11},
+    year = {2026},
+    number = {8},
+    article-number = {207},
+    doi = {10.3390/data11080207},
+    url = {[https://www.mdpi.com/2306-5729/11/8/207](https://www.mdpi.com/2306-5729/11/8/207)},
+    issn = {2306-5729}
 }
 ```
 
+```bibtex
+@misc{belarbi2025gothamdataset2025reproducible,
+      title = {Gotham Dataset 2025: A Reproducible Large-Scale IoT Network Dataset for Intrusion Detection and Security Research}, 
+      author = {Othmane Belarbi and Theodoros Spyridopoulos and Eirini Anthi and Omer Rana and Pietro Carnelli and Aftab Khan},
+      year = {2025},
+      eprint = {2502.03134},
+      archivePrefix = {arXiv},
+      primaryClass = {cs.CR},
+      url = {https://arxiv.org/abs/2502.03134}, 
+}
+```
