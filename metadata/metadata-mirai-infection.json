@@ -53,12 +53,12 @@
     {
         "source_ip": "192.168.33.10",
         "destination_ip": "192.168.x.x",
-        "label": "C&C Communication"
+        "label": "Mirai C&C Communication"
     },
     {
         "source_ip": "192.168.x.x",
         "destination_ip": "192.168.33.10",
-        "label": "C&C Communication"
+        "label": "Mirai C&C Communication"
     },
 
     {
